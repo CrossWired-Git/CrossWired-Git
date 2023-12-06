@@ -21,6 +21,6 @@ CSV Format:
   * Chiptune
 
 Current Project(s):
-* “LiteCalc” A calculator written in Javascript with Node (nw.js)
+* [“LiteCalc” A calculator written in Javascript with Node (nw.js)](https://github.com/CrossWired-Git/LiteCalc)
 
 Open for help? [✔]

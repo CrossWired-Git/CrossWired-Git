@@ -21,6 +21,9 @@ CSV Format:
   * Chiptune
 
 Current Project(s):
-* [“LiteCalc” A calculator written in Javascript with Node (nw.js)](https://github.com/CrossWired-Git/LiteCalc)
-
+* [“LiteCalc” A calculator written in Javascript with Node (nw.js)](https://github.com/CrossWired-Git/LiteCalc)  
+  
+Goodies and other stuff:
+* ["Furnace PCE Drumset \(*DPCELIB*\)", A preset of Furnace instruments specifically optimized for the PC-Engine.](https://github.com/CrossWired-Git/Furnace-PCE-Drumset)  
+  
 Open for help? [✔]
